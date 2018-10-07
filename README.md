@@ -22,7 +22,7 @@ GitHub para el desplegue de la página
 
 # Descripción
 
-Se presenta una visualización interactiva que permite identificar la tendencia creciente que ha venido presentando la temperatura a nivel mundial, en el hemisferio norte y en el hemisferio sur a travé de un gráfico de líneas desde el año 1880 hasta el año 2018
+Se presenta una visualización interactiva que permite identificar la tendencia creciente que ha venido presentando la temperatura a nivel mundial, en el hemisferio norte y en el hemisferio sur a través de un gráfico de líneas desde el año 1880 hasta el año 2018
 
 # 
 
