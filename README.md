@@ -4,11 +4,21 @@
 Harry Cristhian Torres Moreno
 
 https://www.linkedin.com/in/harry-cristhian-torres-moreno-5bb53370/
+
 https://twitter.com/HarryCTorres
 
 # Objetivos
 
 diseñar una visualización que eduque a la gente acerca del calentamiento global. Quiero que a todo el mundo le quede claro que el calentamiento global es una realidad de todo el planeta, y que la evidencia muestra que en los últimos años se ha venido presentando un incremento constante de la temperatura.
+
+# Link de la página abrir con google chrome
+
+https://hctorresm.github.io/El-calentamiento-global-es-una-realidad-/
+
+https://twitter.com/HarryCTorres/status/1049080395181031424
+
+
+
 
 # Tecnologías utilizadas
 
