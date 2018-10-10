@@ -29,7 +29,7 @@ body
 }
 
 .axis path {
-  display: none;
+  display: none ;
 }
 
 .axis line {
@@ -530,7 +530,7 @@ x.domain([d3.min(data, d => d.date)   , d3.max(data, d => d.date)]);
       .data(voronoi.polygons(filteredData));
 
     voronoiPaths.exit().remove();
-
+ 
     voronoiPaths
       .enter()
       .append('path')
